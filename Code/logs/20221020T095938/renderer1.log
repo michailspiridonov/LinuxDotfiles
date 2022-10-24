@@ -1,0 +1,13 @@
+[2022-10-20 09:59:41.023] [renderer1] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-20 09:59:41.229] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-10-20 09:59:41.304] [renderer1] [info] [eamodio.gitlens]: Command `gitlens.copyAutolinkUrl` appears multiple times in the `commands` section.
+[2022-10-20 10:00:05.313] [renderer1] [error] [Extension Host] unhandledRejection {"id":"github","reason":1}
+[2022-10-20 10:00:06.314] [renderer1] [error] 'github' authentication is required for this operation: Error: 'github' authentication is required for this operation
+    at R.getSession (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/feature-github.js:454:9626)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-20 13:21:31.924] [renderer1] [error] Unable to read file '/home/michail/work/Quanti/drmax-qa-tests/configs/ed_prod.config.ts' (Error: File not modified since): Error: Unable to read file '/home/michail/work/Quanti/drmax-qa-tests/configs/ed_prod.config.ts' (Error: File not modified since)
+    at u.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:608:20076)
+    at async v.doRead (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2780:42787)
+    at async v.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2780:42462)
+    at async Rr.resolveFromFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2769:68542)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2780:36966

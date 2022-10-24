@@ -1,0 +1,111 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="24-03-2022">
+        <observation name="cancelled" value="11.0" />
+        <observation name="typedSelect" value="3.0" />
+      </dailyData>
+      <dailyData date="25-03-2022">
+        <observation name="cancelled" value="100.0" />
+        <observation name="explicitSelect" value="38.0" />
+        <observation name="typedSelect" value="50.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="cancelled" value="229.0" />
+        <observation name="explicitSelect" value="174.0" />
+        <observation name="typedSelect" value="190.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="24-03-2022">
+        <observation name="BASIC" value="5.0" />
+      </dailyData>
+      <dailyData date="25-03-2022">
+        <observation name="BASIC" value="101.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="BASIC" value="498.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="24-03-2022">
+        <observation name="count" value="14.0" />
+      </dailyData>
+      <dailyData date="25-03-2022">
+        <observation name="count" value="188.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="count" value="593.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="25-03-2022">
+        <observation name="0" value="33.0" />
+        <observation name="1" value="3.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="0" value="161.0" />
+        <observation name="1" value="10.0" />
+        <observation name="2" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="25-03-2022">
+        <observation name="total" value="34.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="total" value="126.0" />
+        <observation name="withMnemonics" value="12.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="25-03-2022">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="3.0" />
+        <observation name="2" value="18.0" />
+        <observation name="3" value="11.0" />
+        <observation name="4" value="2.0" />
+        <observation name="5" value="2.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="0" value="9.0" />
+        <observation name="1" value="39.0" />
+        <observation name="2" value="70.0" />
+        <observation name="3" value="33.0" />
+        <observation name="4" value="13.0" />
+        <observation name="5" value="7.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="25-03-2022">
+        <observation name="GREEDY" value="1.0" />
+        <observation name="GREEDY_WITH_CASE" value="1.0" />
+        <observation name="START_WITH" value="32.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="GREEDY_WITH_CASE" value="9.0" />
+        <observation name="START_WITH" value="116.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="24-03-2022">
+        <observation name="average" value="378.5" />
+        <observation name="count" value="4.0" />
+      </dailyData>
+      <dailyData date="25-03-2022">
+        <observation name="average" value="281.782609" />
+        <observation name="count" value="138.0" />
+      </dailyData>
+      <dailyData date="10-04-2022">
+        <observation name="average" value="276.729433" />
+        <observation name="count" value="547.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

@@ -1,0 +1,44 @@
+{
+  "baseUrl": "https://app-capitain.dev.k8s-svc.eurodata.de/en",
+  "env": {
+    "auth_base_url": "https://dev-sso.eurodata.de/u/auth",
+    "auth_realm": "eurodata",
+    "auth_client_id": "app-capitainio-fe",
+    "linkedAmountNumber": "0.00 €",
+    "openAmountNumber": "100.00 €",
+    "linkedAmountAfter": "-50.00 €",
+    "openAmountAfter": "150.00 €",
+    "bankTransactionName": "Drti Kolo",
+    "invoiceNumber": "79927",
+    "exportStateText": "New",
+    "exportDownloadedText": "Downloaded",
+    "companyId": "0a041116-7efd-1993-817e-fded06230000",
+    "transactionItemId": "1eccb791-1a1e-6063-9ff5-fb70b6f68ac2",
+    "settingsUsername": "TA s.r.o.",
+    "settingsCountry": "Germany",
+    "settingsPersonalTitle": "Mrs",
+    "settingsNewMemberRole": "Company user",
+    "useDefaultAccount": "Use this account as the default account",
+    "unmarkDefaultAccount": "Unmark this account as the default account",
+    "cashDeskId": "0_0000-123456-123456-1230",
+    "settingsCurrency": "CZK",
+    "settingsLanguage": "German",
+    "saveSettingsGerman": "EINSTELLUNGEN SPEICHERN",
+    "userGerman": "Benutzer",
+    "titleGerman": "Herr",
+    "languageGerman": "Englisch",
+    "saveSettingsEnglish": "SAVE SETTINGS"
+  },
+  "viewportWidth": 1600,
+  "viewportHeight": 900,
+  "chromeWebSecurity": false,
+
+  "db": {
+    "user": "capitanio-dev",
+    "host": "capitain-pg1-dev.lx.eurodata.de",
+    "database": "capitainio-dev",
+    "password": "Ifoo+poa9a",
+    "port": 5432
+  },
+  "pluginsFile": "./cypress/plugins/index.js"
+}

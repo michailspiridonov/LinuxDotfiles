@@ -1,0 +1,38 @@
+[2022-10-14T09:23:35.591Z] Log level: Info
+[2022-10-14T09:23:35.598Z] [info] Validating found git in: git
+[2022-10-14T09:23:35.652Z] [info] Using git 2.38.0 from git
+[2022-10-14T09:23:35.681Z] > git rev-parse --show-toplevel [9ms]
+[2022-10-14T09:23:35.681Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-14T09:23:35.696Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-14T09:23:35.707Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-10-14T09:23:35.713Z] [info] Open repository: /home/michail/School/AG1/P1
+[2022-10-14T09:23:35.787Z] > git status -z -uall [50ms]
+[2022-10-14T09:23:35.802Z] > git symbolic-ref --short HEAD [3ms]
+[2022-10-14T09:23:35.811Z] > git rev-parse --show-toplevel [61ms]
+[2022-10-14T09:23:35.811Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-10-14T09:23:36.093Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [282ms]
+[2022-10-14T09:23:36.132Z] > git remote --verbose [20ms]
+[2022-10-14T09:23:36.132Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+[2022-10-14T09:23:36.153Z] > git config --get commit.template [5ms]
+[2022-10-14T09:23:36.168Z] > git status -z -uall [5ms]
+[2022-10-14T09:23:36.185Z] > git symbolic-ref --short HEAD [4ms]
+[2022-10-14T09:23:36.197Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+[2022-10-14T09:23:36.367Z] > git show --textconv :sample.cpp [128ms]
+[2022-10-14T09:23:36.368Z] > git remote --verbose [150ms]
+[2022-10-14T09:23:36.368Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [163ms]
+[2022-10-14T09:23:36.459Z] > git ls-files --stage -- /home/michail/School/AG1/P1/sample.cpp [206ms]
+[2022-10-14T09:23:36.548Z] > git check-ignore -v -z --stdin [132ms]
+[2022-10-14T09:23:36.550Z] > git cat-file -s 5834fa562ea1d81ac5b8e9ae7bfbb2722a1446b5 [78ms]
+[2022-10-14T09:23:36.552Z] > git config --get commit.template [126ms]
+[2022-10-14T09:23:37.169Z] > git fetch [1446ms]
+[2022-10-14T09:23:37.186Z] > git status -z -uall [3ms]
+[2022-10-14T09:23:37.207Z] > git symbolic-ref --short HEAD [8ms]
+[2022-10-14T09:23:37.220Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-10-14T09:23:37.238Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-10-14T09:23:37.239Z] > git remote --verbose [2ms]
+[2022-10-14T09:23:37.254Z] > git config --get commit.template [2ms]
+[2022-10-14T09:23:38.712Z] > git ls-files --stage -- /home/michail/School/AG1/P1/sample.cpp [1ms]
+[2022-10-14T09:23:38.727Z] > git cat-file -s 5834fa562ea1d81ac5b8e9ae7bfbb2722a1446b5 [1ms]
+[2022-10-14T09:23:38.905Z] > git show --textconv :sample.cpp [7ms]

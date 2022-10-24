@@ -1,0 +1,275 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">ZGVsZXRl</entry>
+        <entry encoding="base64">bmV3</entry>
+        <entry encoding="base64">cmVmQ28=</entry>
+        <entry encoding="base64">ZXhwaXJl</entry>
+        <entry encoding="base64">LT4=</entry>
+        <entry encoding="base64">dW5vcmRlcg==</entry>
+        <entry encoding="base64">dW5vcmRlcmVk</entry>
+        <entry encoding="base64">c2V0</entry>
+        <entry encoding="base64">bWFw</entry>
+        <entry encoding="base64">dW5v</entry>
+        <entry encoding="base64">dWludDMy</entry>
+        <entry encoding="base64">d2hpbGU=</entry>
+        <entry encoding="base64">c3RvcmU=</entry>
+        <entry encoding="base64">Y21w</entry>
+        <entry encoding="base64">bmFtZQ==</entry>
+        <entry encoding="base64">c3Y=</entry>
+        <entry encoding="base64">Y2F0Y2g=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/CLionProjects/uloha_6/test.cpp" timestamp="1651441535928">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="48" column="2" />
+      </file>
+      <file name="/GDB" timestamp="1652026086872">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/http_server/src/server_socket.h" timestamp="1655312382454">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/http_server/src/message.h" timestamp="1655307522860">
+        <mark key="'" line="52" column="1" />
+        <mark key="]" line="85" column="4" />
+        <mark key="^" line="85" column="4" />
+        <mark key="." line="85" column="3" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/uloha_7/main.cpp" timestamp="1652026011055">
+        <mark key="[" line="88" column="17" />
+        <mark key="]" line="87" column="33" />
+        <mark key="^" line="87" column="33" />
+        <mark key="." line="87" column="32" />
+      </file>
+      <file name="/usr/include/c++/11.2.0/bits/basic_string.h_CLION_FRAGMENT_SEPARATOR_fragment.cpp" timestamp="1651439398317">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/include/c++/11.2.0/bits/stl_vector.h_CLION_FRAGMENT_SEPARATOR_fragment.cpp" timestamp="1651440090095">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/include/c++/11.2.0/bits/shared_ptr.h_CLION_FRAGMENT_SEPARATOR_fragment.cpp" timestamp="1651439410516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/uloha_6/main.cpp" timestamp="1651441556663">
+        <mark key="'" line="479" column="4" />
+        <mark key="[" line="267" column="20" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+        <mark key="^" line="266" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/uloha_6/main.cpp_CLION_FRAGMENT_SEPARATOR_fragment.cpp" timestamp="1651440834242">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1652026087114">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/uloha_6/CMakeLists.txt" timestamp="1651440738730">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="/usr/include/c++/11.2.0/bits/shared_ptr_base.h_CLION_FRAGMENT_SEPARATOR_fragment.cpp" timestamp="1651439953426">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/uloha_7/main.cpp_CLION_FRAGMENT_SEPARATOR_fragment.cpp" timestamp="1652026087553">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/http_server/src/server_socket.cpp" timestamp="1655312644421">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/http_server/src/socket.cpp" timestamp="1655312823889">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/http_server/src/socket.h" timestamp="1655312798571">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/http_server/src/message.cpp" timestamp="1655307528511">
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="13" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="122" column="12" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="130" column="22" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="132" column="21" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="133" column="12" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="136" column="14" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="155" column="31" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="158" column="42" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="163" column="51" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="86" column="4" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="96" column="15" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="162" column="4" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="306" column="41" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="368" column="69" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="351" column="30" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="370" column="0" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="13" column="10" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="89" column="6" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="279" column="6" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="280" column="26" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="285" column="16" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="289" column="11" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="11" column="10" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="102" column="15" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="168" column="4" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="320" column="25" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="88" column="4" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="18" column="10" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="19" column="10" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="179" column="24" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="257" column="7" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="298" column="7" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="82" column="27" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="84" column="11" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="127" column="3" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="128" column="7" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="255" column="19" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="143" column="10" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="137" column="28" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="121" column="17" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="116" column="18" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="114" column="13" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="110" column="5" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="242" column="28" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="106" column="11" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="79" column="24" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="53" column="7" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="48" column="18" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="46" column="7" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="294" column="23" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="292" column="18" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="290" column="18" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="288" column="76" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="273" column="19" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="270" column="10" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="268" column="35" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="267" column="23" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="263" column="25" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="262" column="45" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="259" column="10" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="258" column="25" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="249" column="27" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="248" column="73" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="223" column="33" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="154" column="14" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="153" column="33" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="152" column="22" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="149" column="36" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="146" column="42" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="145" column="48" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="108" column="23" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="105" column="14" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="104" column="29" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="101" column="15" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="100" column="31" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="98" column="54" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="95" column="54" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="94" column="28" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="296" column="48" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="307" column="73" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="310" column="51" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="311" column="64" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="312" column="85" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="314" column="49" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="22" column="6" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="64" column="17" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="65" column="38" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="78" column="15" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="81" column="55" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="90" column="39" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="91" column="46" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="92" column="46" filename="$USER_HOME$/CLionProjects/uloha_5/main.cpp" />
+      <jump line="281" column="55" filename="$USER_HOME$/CLionProjects/uloha_6/main.cpp" />
+      <jump line="300" column="57" filename="$USER_HOME$/CLionProjects/uloha_6/main.cpp" />
+      <jump line="289" column="51" filename="$USER_HOME$/CLionProjects/uloha_6/main.cpp" />
+      <jump line="68" column="11" filename="$USER_HOME$/CLionProjects/uloha_6/main.cpp" />
+      <jump line="307" column="4" filename="$USER_HOME$/CLionProjects/uloha_6/main.cpp" />
+      <jump line="288" column="4" filename="$USER_HOME$/CLionProjects/uloha_6/main.cpp" />
+      <jump line="296" column="4" filename="$USER_HOME$/CLionProjects/uloha_6/main.cpp" />
+      <jump line="53" column="1" filename="$USER_HOME$/CLionProjects/http_server/src/message.h" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Z2V0X2FkZHJlcw==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Z2V0X2FkZHJlcw==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">I2luY2x1ZGUgIiJzZXJ2ZXJfc29ja2V0LmgvLyBjb25zdHJ1Y3RvciwgZGVzdHJ1Y3Rvcmh0dHBfc2VydmVyOjpzZXJ2ZXJfc29ja2VydF86OnNlcnZlcl9zb2NrZXQoKWludCBwb3J0IDogaHR0cF9zb2NrZXQocG9ydCkgewogICAgLy8gY3JlYXRlIHNvY2tldAogICAgdGhpcy0+ZmQgPSBzb2NrZXQodGhpcy0+ZG9tYWluLCB0aGlzLT50eXBlLCB0aGlzLT5wcm90b2NvbCk7CiAgICBpZih0aGlzLT5mZCA9PSAwKXsKICAgICAgICB0aHJvdyBzdGQ6OnJ1bnRpbWVfZXJyb3IoInNvY2tldCBmYWlsZWQiKTsKICAgIH0KICAgIC8vIHNldCBhZGRyZXNzCiAgICB0aGlzLT5hZGRyZXNzLnNpbl9mYW1pbHkgPSB0aGlzLT5kb21haW47CiAgICB0aGlzLT5hZGRyZXNzLnNpbl9wb3J0ID0gaHRvbnMocG9ydCk7CiAgICB0aGlzLT5hZGRyZXNzLnNpbl9hZGRyLnNfYWRkciA9IElOQUREUl9BTlk7CiAgICAvLyBzZXQgY29ubmVjdGlvbgogICAgdGhpcy0+Y29ubmVjdGlvbiA9IGVzdGFibGlzaF9jb25uZWN0aW9uKHRoaXMtPmZkLCB0aGlzLT5hZGRyZXNzKTsKfQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">Y2F0Y2g=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">aHR0cF9zZXJ2ZXI6Og==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIHZvaWQgbGlzdGVuKCkgPSAwOwogICAgICAgIHZpcnR1YWwgdm9pZCBhY2NlcHQoaHR0cF9zb2NrZXQgJiBjbGllbnQpID0gMDsKICAgICAgICB2aXJ0dWFsIHZvaWQgY2xvc2UoKSA9IDA7CiAgICAgICAgdmlydHVhbCB2b2lkIHNlbmQoY29uc3Qgc3RkOjpzdHJpbmcgJiBtZXNzYWdlKSA9IDA7CiAgICAgICAgdmlydHVhbCBzdGQ6OnN0cmluZyByZWNlaXZlKCkgPSAwOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CmludCBodHRwX3NlcnZlcjo6c2VydmVyX3NvY2tldDo6bGlzdGVuKCkgewogICAgcmV0dXJuIGxpc3Rlbih0aGlzLT5mZCwgU09NQVhDT05OKTsKfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIHZvaWQgbGlzdGVuKCk7CiAgICAgICAgdmlydHVhbCB2b2lkIGFjY2VwdChodHRwX3NvY2tldCAmIGNsaWVudCk7CiAgICAgICAgdmlydHVhbCB2b2lkIGNsb3NlKCk7CiAgICAgICAgdmlydHVhbCB2b2lkIHNlbmQoY29uc3Qgc3RkOjpzdHJpbmcgJiBtZXNzYWdlKTsKICAgICAgICB2aXJ0dWFsIHN0ZDo6c3RyaW5nIHJlY2VpdmUoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBzb2NrZXQKICAgIHRoaXMtPmZkID0gc29ja2V0KHRoaXMtPmRvbWFpbiwgdGhpcy0+dHlwZSwgdGhpcy0+cHJvdG9jb2wpOwogICAgaWYodGhpcy0+ZmQgPT0gMCl7CiAgICAgICAgdGhyb3cgc3RkOjpydW50aW1lX2Vycm9yKCJzb2NrZXQgZmFpbGVkIik7CiAgICB9CiAgICAvLyBzZXQgYWRkcmVzcwogICAgdGhpcy0+YWRkcmVzcy5zaW5fZmFtaWx5ID0gdGhpcy0+ZG9tYWluOwogICAgdGhpcy0+YWRkcmVzcy5zaW5fcG9ydCA9IGh0b25zKHBvcnQpOwogICAgdGhpcy0+YWRkcmVzcy5zaW5fYWRkci5zX2FkZHIgPSBJTkFERFJfQU5ZOwogICAgLy8gc2V0IGNvbm5lY3Rpb24KICAgIHRoaXMtPmNvbm5lY3Rpb24gPSBlc3RhYmxpc2hfY29ubmVjdGlvbih0aGlzLT5mZCwgdGhpcy0+YWRkcmVzcyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2aXJ0dWFsIHZvaWQgYmluZChpbnQgcG9ydCkgPSAwOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIEVzdGFibGlzaCBhIGNvbm5lY3Rpb24gKGJpbmQvY29ubmVjdCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmKFY6OmJpbmQodGhpcy0+ZmQsIChzdHJ1Y3Qgc29ja2FkZHIgKikmdGhpcy0+YWRkcmVzcywgc2l6ZW9mKHRoaXMtPmFkZHJlc3MpKSA8IDApewogICAgICAgIHRocm93IHN0ZDo6cnVudGltZV9lcnJvcigiYmluZCBmYWlsZWQiKTsKICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHNldCBzb2NrZXQgb3B0aW9ucwogICAgaW50IG9wdHZhbCA9IDE7CiAgICBzZXRzb2Nrb3B0KHRoaXMtPmZkLCBTT0xfU09DS0VULCBTT19SRVVTRUFERFIsICZvcHR2YWwsIHNpemVvZihvcHR2YWwpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGludCBhID0gc29ja2V0KHRoaXMtPnR5cGUsIHRoaXMtPmRvbWFpbiwgdGhpcy0+cHJvdG9jb2wpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">Y2F0Y2g=</last-search>
+      <last-replace encoding="base64">fg==</last-replace>
+      <last-pattern encoding="base64">Y2F0Y2g=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

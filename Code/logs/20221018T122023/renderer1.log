@@ -1,0 +1,2 @@
+[2022-10-18 12:20:24.980] [renderer1] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-18 12:20:25.139] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

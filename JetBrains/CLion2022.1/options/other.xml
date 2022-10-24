@@ -1,0 +1,99 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="26phYsxCOKMKCVeBJVsTciryi6O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26scEfeSPdcvD5kVV0yxxZJ5ZDn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27q3GaQh3Dj2J7g5YF3z8KqKsIJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27tdXpbIDH045gAiBLRGmV38twq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27xzInv7GB73VwSJMcYQU0CRuWf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28sghX9h5obb5JtbArfKihH9Fqf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="appcds.runOnSecondStart" value="CL-213.7172.20-9bde468bca61e60aafa3de29468d8663d1feb009f0f82628ef0df40f9bfed0d0" />
+    <property name="bundled.plugins.list.saved.version" value="CL-213.7172.20" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="file.chooser.recent.files" value="/usr/bin/cmake" />
+    <property name="file.gist.reindex.count" value="9" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="gotit.previous.run" value="CL-213.7172.20" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="last_opened_file_path" value="/usr/bin/cmake" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-213.7172.20" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "NextRunPlatformUpdateBuild": "CL-221.5591.52/2022.1.1",
+    "NextRunPlatformUpdateVersion": "2022.1.1",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.enable.text.search": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "CL-221.5080.224-c510c58c97922e84645466593f7c022ecdbf9843f1fddb69fde5cdb132f2f7f6",
+    "bundled.plugins.list.saved.version": "CL-221.5080.224",
+    "clion.initialConfigPerformed": "true",
+    "file.gist.reindex.count": "101",
+    "fileTypeChangedCounter": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "CL-221.5080.224",
+    "ide.updates.whats.new.shown.for": "221",
+    "ideavim.statistics.timestamp": "1652619225200",
+    "registry.to.advanced.settings.migration.build": "CL-221.5080.224",
+    "stats.collector.latest.sending.timestamp": "1649613911431",
+    "stats.collector.today.sent.data.size": "3134249",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.5.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/usr/bin/cmake"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="uloha_5-history" project-path="$USER_HOME$/CLionProjects/uloha_5" last-access-time="1650816405858" />
+      <command-history-file filename="uloha3-history" project-path="$USER_HOME$/CLionProjects/uloha3" last-access-time="1649602157991" />
+      <command-history-file filename="uloha_4-history" project-path="$USER_HOME$/CLionProjects/uloha_4" last-access-time="1650212994025" />
+    </command-history-files>
+  </component>
+</application>

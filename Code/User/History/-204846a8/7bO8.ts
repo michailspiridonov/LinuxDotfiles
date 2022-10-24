@@ -1,0 +1,59 @@
+/**
+ * Fills out the customer details form
+ * @param customer customer fixture
+ */
+export function fillCustomerDetails(customer) {
+        //email --- this returns 2 inputs, thats why we use first()
+        cy.get(`input#customer-email`).first().type(customer.email);
+        //first name
+        cy.get(`div[name="shippingAddress.firstname"]`).find(`input`).type(customer.firstName);
+        //last name
+        cy.get(`div[name="shippingAddress.lastname"]`).find(`input`).type(customer.lastName);
+        //company
+        cy.get(`div[name="shippingAddress.company"]`).find(`input`).type(customer.company);
+        //street address
+        cy.get(`div[name="shippingAddress.street.0"]`).find(`input`).type(customer.address.street);
+        //country
+        cy.get(`div[name="shippingAddress.country_id"]`).find(`select`).select(customer.address.country);
+        //state
+        cy.get(`div[name="shippingAddress.region"]`).find(`input`).type(customer.address.state);
+        //city
+        cy.get(`div[name="shippingAddress.city"]`).find(`input`).type(customer.address.city);
+        //zip code
+        cy.get(`div[name="shippingAddress.postcode"]`).find(`input`).type(customer.address.zip);
+        //phone number
+        cy.get(`div[name="shippingAddress.telephone"]`).find(`input`).type(customer.phone);
+}
+
+/**
+ * Checks that the customer details are correct
+ * @param customer customer fixture
+ * @param price_incl_tax price of the product including tax
+ * @param price_excl_tax price of the product excluding tax
+ */
+export function checkPaymentPage(customer, price_incl_tax: string, price_excl_tax: string, shipping_price: string) {
+        //check billing address
+        cy.get('div.billing-address-details').then($el => checkAddress($el, customer));
+        //check shipping address
+        cy.get('div.shipping-information-content').then($el => checkAddress($el, customer));
+        //TODO check shipping method
+        //check price
+        //total cart price excluding tax
+        cy.get(`tr.totals.sub.excl`).find(`span.price`).should('contain', price_excl_tax);
+        //total cart price including tax
+        cy.get(`tr.totals.sub.incl`).find(`span.price`).should('contain', price_incl_tax);
+        //shipping price including tax
+        cy.get(`tr.shipping.sub.incl`).find(`span.price`).should('contain', shipping_price);
+}
+
+export function checkAddress($element, customer) {
+        cy.wrap($element)
+                .should('contain', customer.firstName)
+                .and('contain', customer.lastName)
+                .and('contain', customer.address.street)
+                .and('contain', customer.address.city)
+                .and('contain', customer.address.state)
+                .and('contain', customer.address.zip)
+                .and('contain', customer.address.country)
+                .and('contain', customer.phone);
+}

@@ -1,0 +1,29 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="26phYsxCOKMKCVeBJVsTciryi6O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="appcds.runOnSecondStart" value="CL-213.7172.20-9bde468bca61e60aafa3de29468d8663d1feb009f0f82628ef0df40f9bfed0d0" />
+    <property name="bundled.plugins.list.saved.version" value="CL-213.7172.20" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="file.chooser.recent.files" value="/usr/bin/cmake" />
+    <property name="file.gist.reindex.count" value="9" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="gotit.previous.run" value="CL-213.7172.20" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="last_opened_file_path" value="/usr/bin/cmake" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-213.7172.20" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+</application>

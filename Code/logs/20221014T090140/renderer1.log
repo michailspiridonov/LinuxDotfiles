@@ -1,0 +1,4 @@
+[2022-10-14 09:01:41.505] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-10-14 09:01:44.215] [renderer1] [error] [Extension Host] (node:153011) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-10-14 09:01:45.099] [renderer1] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.

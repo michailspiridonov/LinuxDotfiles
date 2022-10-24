@@ -1,0 +1,66 @@
+{
+  "pluginsFile": "cypress/plugins/index.js",
+  "supportFile": "cypress/support/index.ts",
+  "integrationFolder": "specs",
+  "screenshotsFolder": "artifacts/screenshots",
+  "videosFolder": "artifacts/videos",
+  "baseUrl": "https://www.drmaxdrogeria.pl/",
+  "screenshotOnRunFailure": true,
+  "defaultCommandTimeout": 35000,
+  "pageLoadTimeout": 120000,
+  "viewportWidth": 375,
+  "viewportHeight": 667,
+  "chromeWebSecurity": false,
+  "projectId": "fucc3s",
+  "retries": 1,
+  "video": true,
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "env": {
+    "MAILOSAUR_API_KEY": "eovxfyRSAdnQX3b",
+    "environment": "ed_prod",
+    "grepFilterSpecs": true,
+    "grepOmitFiltered": true,
+    "data": {
+      "env": "prod",
+      "country": "ed",
+      "url": {
+        "graphql": "https://www.drmaxdrogeria.pl/graphql",
+        "homepage": "https://www.drmaxdrogeria.pl/",
+        "checkout": "https://www.drmaxdrogeria.pl/checkout/1",
+        "checkout_2_step": "https://www.drmaxdrogeria.pl/checkout/2",
+        "checkout_3_step": "https://www.drmaxdrogeria.pl/checkout/3",
+        "checkout_4_step": "https://www.drmaxdrogeria.pl/checkout/4",
+        "checkout_thankyou": "https://www.drmaxdrogeria.pl/checkout/dziekujemy",
+        "admin": "https://backend.drmax.pl/admin_tiR9xoo5Fi"
+      },
+      "user": {
+        "login": "tester.pjvurmhd@mailosaur.io",
+        "email": "tester.pjvurmhd@mailosaur.io",
+        "pass": "Testerpassword2021",
+        "name": "Max",
+        "surname": "Tester",
+        "birth_day": "11",
+        "birth_month": "11",
+        "birth_year": "2000",
+        "phone": "999888777",
+        "phone_prefix": "+48",
+        "street": "Filtrowa",
+        "house_number": "1048",
+        "city": "Warszawa",
+        "region": "Warszawa",
+        "country_code": "PL",
+        "postcode": "02-057",
+        "bussiness": {
+          "cin_id": "1231216692",
+          "name": "Tester i syn",
+          "vat_id": "5562546356"
+        }
+      },
+      "fulltext_pharmacy": "Warszawa",
+      "default_shipping_method": "drmaxshippingdpd",
+      "default_payment_method": "cashondelivery",
+      "store": "drogeria",
+      "website_view": "Drogeria Website"
+    }
+  }
+}

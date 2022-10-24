@@ -1,0 +1,19 @@
+commands import
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feature/8836
+# Your branch is up to date with 'origin/feature/8836'.
+#
+# Changes to be committed:
+#	modified:   cypress/support/e2e.ts
+#
+# Changes not staged for commit:
+#	modified:   cypress/handlers/api/admin-api-handler.ts
+#	modified:   package.json
+#	modified:   yarn.lock
+#
+# Untracked files:
+#	package-lock.json
+#	specs/customer/test.ts
+#

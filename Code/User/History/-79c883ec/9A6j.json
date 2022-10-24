@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "cy-verify-downloads": "^0.1.5",
+    "cypress": "^9.5.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-keycloak-commands": "^1.2.0",
+    "cypress-mailosaur": "^2.11.0",
+    "cypress-postgres": "^1.1.1"
+  },
+  "scripts": {
+    "open:en_dev": "./node_modules/.bin/cypress open --config-file=\"configs/en_dev.json\"",
+    "open:qa": "./node_modules/.bin/cypress open --config-file=\"configs/qa.json\"",
+    "run:en_dev": "./node_modules/.bin/cypress run --config-file=\"configs/en_dev.json\"",
+    "run:qa": "./node_modules/.bin/cypress run --config-file=\"configs/qa.json\""
+  }
+}

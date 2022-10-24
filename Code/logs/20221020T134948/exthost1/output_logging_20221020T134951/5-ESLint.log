@@ -1,0 +1,32 @@
+[Info  - 1:49:54 PM] ESLint server is starting
+[Info  - 1:49:55 PM] ESLint server running in node v16.14.2
+[Info  - 1:49:55 PM] ESLint server is running.
+[Info  - 1:49:57 PM] ESLint library loaded from: /home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/api.js
+[Error - 10:43:09 AM] ESLint stack trace:
+[Error - 10:43:09 AM] TypeError: Cannot read properties of undefined (reading 'loc')
+Occurred while linting /home/michail/work/Quanti/drmax-qa-tests/cypress/helpers/elastic_search/megamenu_es_request_bulder.ts:1
+Rule: "indent"
+    at Object.VariableDeclaration [as listener] (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/rules/indent.js:1513:69)
+    at /home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/rules/indent.js:1724:55
+    at Array.forEach (<anonymous>)
+    at Program:exit (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/rules/indent.js:1724:26)
+    at ruleErrorHandler (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/linter.js:1114:28)
+    at /home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/safe-emitter.js:45:58
+    at Array.forEach (<anonymous>)
+    at Object.emit (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/safe-emitter.js:45:38)
+    at NodeEventGenerator.applySelector (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/node-event-generator.js:297:26)
+    at NodeEventGenerator.applySelectors (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/node-event-generator.js:326:22)
+[Error - 10:43:10 AM] ESLint stack trace:
+[Error - 10:43:10 AM] TypeError: Cannot read properties of undefined (reading 'loc')
+Occurred while linting /home/michail/work/Quanti/drmax-qa-tests/cypress/helpers/elastic_search/megamenu_es_request_bulder.ts:1
+Rule: "indent"
+    at Object.VariableDeclaration [as listener] (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/rules/indent.js:1513:69)
+    at /home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/rules/indent.js:1724:55
+    at Array.forEach (<anonymous>)
+    at Program:exit (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/rules/indent.js:1724:26)
+    at ruleErrorHandler (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/linter.js:1114:28)
+    at /home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/safe-emitter.js:45:58
+    at Array.forEach (<anonymous>)
+    at Object.emit (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/safe-emitter.js:45:38)
+    at NodeEventGenerator.applySelector (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/node-event-generator.js:297:26)
+    at NodeEventGenerator.applySelectors (/home/michail/work/Quanti/drmax-qa-tests/node_modules/eslint/lib/linter/node-event-generator.js:326:22)

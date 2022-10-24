@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://dev-sso.eurodata.de/u/auth",
+  "env": {
+    "auth_base_url": "https://dev-sso.eurodata.de/u/auth",
+    "auth_realm": "eurodata",
+    "auth_client_id": "app-capitainio-fe"
+  },
+  "viewportWidth": 1600,
+  "viewportHeight": 900,
+  "chromeWebSecurity": false
+}

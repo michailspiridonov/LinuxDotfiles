@@ -1,0 +1,68 @@
+{
+  "pluginsFile": "cypress/plugins/index.js",
+  "supportFile": "cypress/support/index.ts",
+  "integrationFolder": "specs",
+  "screenshotsFolder": "artifacts/screenshots",
+  "videosFolder": "artifacts/videos",
+  "baseUrl": "https://drmax.it/",
+  "screenshotOnRunFailure": true,
+  "defaultCommandTimeout": 35000,
+  "pageLoadTimeout": 120000,
+  "viewportWidth": 375,
+  "viewportHeight": 667,
+  "chromeWebSecurity": false,
+  "projectId": "fucc3s",
+  "retries": 1,
+  "video": true,
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "env": {
+    "MAILOSAUR_API_KEY": "eovxfyRSAdnQX3b",
+    "environment": "it_prod",
+    "grepFilterSpecs": true,
+    "grepOmitFiltered": true,
+    "data": {
+      "env": "prod",
+      "country": "it",
+      "url": {
+        "graphql": "https://backend.drmax.it/graphql",
+        "homepage": "https://www.drmax.it/",
+        "checkout": "https://drmax.it/checkout/1",
+        "checkout_2_step": "https://drmax.it/checkout/2",
+        "checkout_3_step": "https://drmax.it/checkout/3",
+        "checkout_4_step": "https://drmax.it/checkout/4",
+        "checkout_thankyou": "https://drmax.it/checkout/grazie",
+        "admin": "https://backend.drmax.it/admin_5u8rtJ38uh/admin/dashboard/",
+        "rest_base": "https://backend.drmax.it/rest/default/V1"
+      },
+      "user": {
+        "login": "andrei.rotariu@htss.ro",
+        "email": "andrei.rotariu@htss.ro",
+        "pass": "Testerpassword2021",
+        "name": "Andrei",
+        "surname": "Rotariu",
+        "birth_day": "11",
+        "birth_month": "11",
+        "birth_year": "2000",
+        "phone": "999888777",
+        "phone_prefix": "+39",
+        "street": "Via Larga",
+        "house_number": "10",
+        "city": "Roma",
+        "postcode": "00186",
+        "country_code": "IT",
+        "region": "Agrigento",
+        "region_code": "AG",
+        "bussiness": {
+          "tax_id": "12354654",
+          "name": "Tester a syn",
+          "vat_id": "12345678901"
+        }
+      },
+      "fulltext_pharmacy": "rivoli",
+      "default_shipping_method": "drmaxshippinggsped",
+      "default_payment_method": "cashondelivery",
+      "store": "",
+      "website_view": "Main Website"
+    }
+  }
+}

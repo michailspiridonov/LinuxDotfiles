@@ -1,0 +1,30 @@
+[2022-10-21 12:15:11.588] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:11.621] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:11.640] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:11.659] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:11.704] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:11.834] [sharedprocess] [info] Starting worker process with pid 79996 (type: fileWatcher, window: 1).
+[2022-10-21 12:15:11.935] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:12.126] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:12.147] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:12.444] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:12.455] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:12.618] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:14.170] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:14.582] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:14.908] [sharedprocess] [info] Getting Manifest... github.copilot-nightly
+[2022-10-21 12:15:15.475] [sharedprocess] [info] Installing extension: github.copilot-nightly
+[2022-10-21 12:15:15.680] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:16.013] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:16.179] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:16.342] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:17.462] [sharedprocess] [info] Downloaded extension: github.copilot-nightly /home/michail/.config/Code/CachedExtensionVSIXs/github.copilot-nightly-1.54.7102
+[2022-10-21 12:15:17.698] [sharedprocess] [info] Extracted extension to /home/michail/.vscode/extensions/.b9698757-c64e-4251-b8cd-42c4169a03fc: github.copilot-nightly
+[2022-10-21 12:15:17.706] [sharedprocess] [info] Renamed to /home/michail/.vscode/extensions/github.copilot-nightly-1.54.7102
+[2022-10-21 12:15:17.709] [sharedprocess] [info] Extracting completed. github.copilot-nightly
+[2022-10-21 12:15:17.714] [sharedprocess] [info] Extension installed successfully: github.copilot-nightly
+[2022-10-21 12:15:17.891] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:15:18.063] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:20:16.443] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:25:16.717] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-21 12:30:19.806] [sharedprocess] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.

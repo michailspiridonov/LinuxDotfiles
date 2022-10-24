@@ -1,0 +1,4 @@
+{
+    "baseUrl": "http://magento.quanti.cz/",
+    "defaultCommandTimeout": 8000
+}

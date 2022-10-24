@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    }
+}

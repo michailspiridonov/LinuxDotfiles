@@ -1,0 +1,12 @@
+[2022-10-14 11:23:32.240] [renderer1] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-14 11:23:32.370] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-10-14 11:23:35.684] [renderer1] [error] [Extension Host] (node:28267) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-10-14 11:23:37.910] [renderer1] [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/michail/.config/Code/User/settings.json 
+[2022-10-14 11:23:37.921] [renderer1] [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/michail/.config/Code/User/settings.json 
+[2022-10-14 11:23:37.958] [renderer1] [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/michail/.config/Code/User/keybindings.json 
+[2022-10-14 11:23:37.962] [renderer1] [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/michail/.config/Code/User/keybindings.json 
+[2022-10-14 11:23:38.539] [renderer1] [warning] [backup tracker] suspended, ignoring dirty change event file:///home/michail/School/AG1/P1/sample.cpp 
+[2022-10-14 11:23:38.755] [renderer1] [warning] [backup tracker] suspended, ignoring content change event file:///home/michail/School/AG1/P1/sample.cpp 
+[2022-10-14 11:23:40.867] [renderer1] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-14 11:23:40.958] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

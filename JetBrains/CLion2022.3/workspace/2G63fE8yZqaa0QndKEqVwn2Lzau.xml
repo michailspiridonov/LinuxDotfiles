@@ -1,0 +1,405 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="P1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#22#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/ext/aligned_buffer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1563">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/bits/move.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1359">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/ext/alloc_traits.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/bits/alloc_traits.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8892">
+              <caret line="562" selection-start-line="562" selection-end-line="562" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/bits/allocator.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3396">
+              <caret line="173" selection-start-line="173" selection-end-line="173" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/bits/new_allocator.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="157" selection-start-line="157" selection-end-line="157" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/array">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="219" selection-start-line="219" selection-end-line="219" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/12.2.0/bits/stl_vector.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="987" selection-start-line="987" selection-end-line="987" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="9" lastUsed="1666448238306" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="7" lastUsed="1666448238248" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="9" lastUsed="1666448237834" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="50" lastUsed="1666454456533" />
+    </fileType>
+    <fileType name="disassembly">
+      <summary usageCount="1" lastUsed="1666555448570" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/sample.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ASM">
+      <summary usageCount="1" lastUsage="1666555448570" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="9" lastUsage="1666448238306" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="7" lastUsage="1666448238248" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="9" lastUsage="1666448237837" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="50" lastUsage="1666454456533" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.P1" executorId="Run" />
+      <element setting="CMake Application.P1" executorId="Debug" />
+      <element setting="CMake Application.P1" executorId="Coverage" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="P1-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65245000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16015625" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3301887" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3301887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34707052" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.3301887" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.3301887" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3301887" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="right" id="make" order="4" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel" timestamp="1665695321239">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel/0.0.1920.1036@0.0.1920.1036" timestamp="1665695321239" />
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel" timestamp="1665695321239">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel/0.0.1920.1036@0.0.1920.1036" timestamp="1665695321239" />
+    <state width="531" height="78" key="DebuggerActiveHint" timestamp="1665923136557">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="531" height="78" key="DebuggerActiveHint/0.0.1920.1036@0.0.1920.1036" timestamp="1665923136557" />
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1666557016712">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1666557016712" />
+    <state width="1874" height="321" key="GridCell.Tab.0.bottom/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560827" />
+    <state width="1154" height="374" key="GridCell.Tab.0.bottom/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405672" />
+    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1666557016711">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1666557016711" />
+    <state width="1874" height="321" key="GridCell.Tab.0.center/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560826" />
+    <state width="1154" height="374" key="GridCell.Tab.0.center/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405669" />
+    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1666557016711">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1666557016711" />
+    <state width="1874" height="321" key="GridCell.Tab.0.left/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560825" />
+    <state width="1154" height="374" key="GridCell.Tab.0.left/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405668" />
+    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1666557016711">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="304" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1666557016711" />
+    <state width="1874" height="321" key="GridCell.Tab.0.right/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560827" />
+    <state width="1154" height="374" key="GridCell.Tab.0.right/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405671" />
+    <state width="1874" height="321" key="GridCell.Tab.1.bottom" timestamp="1666555667103">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1666555667103" />
+    <state width="1874" height="321" key="GridCell.Tab.1.bottom/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560830" />
+    <state width="1154" height="374" key="GridCell.Tab.1.bottom/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405675" />
+    <state width="1874" height="321" key="GridCell.Tab.1.center" timestamp="1666555667102">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1666555667102" />
+    <state width="1874" height="321" key="GridCell.Tab.1.center/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560828" />
+    <state width="1154" height="374" key="GridCell.Tab.1.center/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405674" />
+    <state width="1874" height="321" key="GridCell.Tab.1.left" timestamp="1666555667102">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1666555667102" />
+    <state width="1874" height="321" key="GridCell.Tab.1.left/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560828" />
+    <state width="1154" height="374" key="GridCell.Tab.1.left/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405673" />
+    <state width="1874" height="321" key="GridCell.Tab.1.right" timestamp="1666555667103">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1874" height="321" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1666555667103" />
+    <state width="1874" height="321" key="GridCell.Tab.1.right/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@0.1034.1920.1080" timestamp="1666263560829" />
+    <state width="1154" height="374" key="GridCell.Tab.1.right/0.1034.1920.1080/3840.0.1200.1920/1920.360.1920.1200@3840.0.1200.1920" timestamp="1665739405674" />
+    <state x="548" y="261" width="824" height="513" key="IDE.errors.dialog" timestamp="1666459997575">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="548" y="261" width="824" height="513" key="IDE.errors.dialog/0.0.1920.1036@0.0.1920.1036" timestamp="1666459997575" />
+    <state x="461" y="153" key="SettingsEditor" timestamp="1666454448231">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="461" y="153" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1666454448231" />
+    <state width="640" height="264" key="ShowBookmarks" timestamp="1666455926323">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="640" height="264" key="ShowBookmarks/0.0.1920.1036@0.0.1920.1036" timestamp="1666455926323" />
+    <state x="683" y="306" key="refactoring.ChangeSignatureDialog" timestamp="1666454993621">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="683" y="306" key="refactoring.ChangeSignatureDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1666454993621" />
+    <state x="623" y="228" width="672" height="687" key="search.everywhere.popup" timestamp="1665919047334">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="623" y="228" width="672" height="687" key="search.everywhere.popup/0.0.1920.1036@0.0.1920.1036" timestamp="1665919047334" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>connection.first</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/c++/12.2.0/bits/stl_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="237" column="6" selection-start-line="237" selection-start-column="6" selection-end-line="237" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/stl_bvector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/stl_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15255">
+          <caret line="813" selection-start-line="813" selection-end-line="813" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/ext/aligned_buffer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1563">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/move.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1359">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/ext/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8892">
+          <caret line="562" selection-start-line="562" selection-end-line="562" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3396">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="987" selection-start-line="987" selection-end-line="987" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/array">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://13">
+      <provider selected="true" editor-type-id="memory-view">
+        <state relative-caret-position="21">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#22#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

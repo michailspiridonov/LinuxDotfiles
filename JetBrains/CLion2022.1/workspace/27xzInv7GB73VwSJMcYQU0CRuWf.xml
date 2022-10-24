@@ -1,0 +1,442 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="uloha_5" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="228" selection-start-line="228" selection-end-line="228" />
+              <folding>
+                <element signature="e#22#40#0" expanded="true" />
+                <element signature="e#2436#3226#0" />
+                <element signature="e#3228#3410#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/bits/stl_vector.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13264">
+              <caret line="829" selection-start-line="829" selection-end-line="829" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/bits/shared_ptr_base.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15744">
+              <caret line="987" selection-start-line="987" selection-end-line="987" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/bits/stl_list.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3408">
+              <caret line="213" selection-start-line="213" selection-end-line="213" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/bits/shared_ptr.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7616">
+              <caret line="476" selection-start-line="476" selection-end-line="476" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/bits/allocator.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2672">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/ext/new_allocator.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1248">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/bits/basic_string.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9476">
+              <caret line="670" selection-start-line="670" selection-end-line="670" />
+              <folding>
+                <element signature="e#20617#21581#0" expanded="true" />
+                <element signature="e#25130#25596#0" expanded="true" />
+                <element signature="e#37847#38142#0" expanded="true" />
+                <element signature="e#41545#42608#0" expanded="true" />
+                <element signature="e#48371#49395#0" expanded="true" />
+                <element signature="e#50435#51160#0" expanded="true" />
+                <element signature="e#52221#52924#0" expanded="true" />
+                <element signature="e#59302#60453#0" expanded="true" />
+                <element signature="e#76878#78842#0" expanded="true" />
+                <element signature="e#81278#81556#0" expanded="true" />
+                <element signature="e#83025#83520#0" expanded="true" />
+                <element signature="e#85321#85832#0" expanded="true" />
+                <element signature="e#88342#88906#0" expanded="true" />
+                <element signature="e#91629#92198#0" expanded="true" />
+                <element signature="e#94941#95516#0" expanded="true" />
+                <element signature="e#98230#98818#0" expanded="true" />
+                <element signature="e#102633#104645#0" expanded="true" />
+                <element signature="e#227456#228685#0" expanded="true" />
+                <element signature="e#248685#249092#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/11.2.0/bits/stl_set.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7752">
+              <caret line="684" selection-start-line="684" selection-end-line="684" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="1" lastUsed="1650276447705" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="48" lastUsed="1651231977965" />
+    </fileType>
+    <fileType name="disassembly">
+      <summary usageCount="18" lastUsed="1650827336778" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+    </findStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uloha_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uloha_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.uloha_5" executorId="Debug" />
+      <element setting="CMake Application.uloha_5" executorId="Run" />
+      <element setting="CMake Application.uloha_5" executorId="Valgrind" />
+      <element setting="CMake Application.uloha_5" executorId="Profiler" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="uloha_5-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48044000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.07026316" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32957885" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.30803135" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32957885" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.32957885" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32957885" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Messages</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="629" height="83" key="DebuggerActiveHint" timestamp="1650310897646">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="629" height="83" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1650310897646" />
+    <state width="1854" height="286" key="GridCell.Tab.0.bottom" timestamp="1650831240568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240568" />
+    <state width="1854" height="286" key="GridCell.Tab.0.center" timestamp="1650831240567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240567" />
+    <state width="1854" height="286" key="GridCell.Tab.0.left" timestamp="1650831240567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240567" />
+    <state width="1854" height="286" key="GridCell.Tab.0.right" timestamp="1650831240567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240567" />
+    <state width="1854" height="286" key="GridCell.Tab.1.bottom" timestamp="1650831240569">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240569" />
+    <state width="1854" height="286" key="GridCell.Tab.1.center" timestamp="1650831240568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240568" />
+    <state width="1854" height="286" key="GridCell.Tab.1.left" timestamp="1650831240568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240568" />
+    <state width="1854" height="286" key="GridCell.Tab.1.right" timestamp="1650831240568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="286" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1650831240568" />
+    <state x="744" y="347" width="434" height="387" key="refactoring.ChangeSignatureDialog" timestamp="1650280283835">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="744" y="347" width="434" height="387" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1650280283835" />
+    <state x="623" y="247" width="672" height="708" key="search.everywhere.popup" timestamp="1650822606078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="247" width="672" height="708" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1650822606078" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/stl_iterator_base_funcs.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/hashtable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1587" selection-start-line="1587" selection-end-line="1587" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://21" />
+    <entry file="cidr-memory-view://27" />
+    <entry file="cidr-memory-view://29" />
+    <entry file="cidr-memory-view://31" />
+    <entry file="cidr-memory-view://33" />
+    <entry file="cidr-memory-view://37" />
+    <entry file="cidr-memory-view://53" />
+    <entry file="cidr-memory-view://55" />
+    <entry file="cidr-memory-view://59" />
+    <entry file="cidr-memory-view://73" />
+    <entry file="file:///usr/include/c++/11.2.0/bits/unordered_set.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://89" />
+    <entry file="file:///usr/include/c++/11.2.0/bits/char_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="408" selection-start-line="408" selection-end-line="408" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="271" selection-start-line="271" selection-end-line="271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://93" />
+    <entry file="file:///usr/include/c++/11.2.0/bits/stl_pair.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="210" selection-start-line="210" selection-end-line="210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/list.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://99" />
+    <entry file="cidr-memory-view://115" />
+    <entry file="cidr-memory-view://123" />
+    <entry file="file:///usr/include/c++/11.2.0/bits/hashtable_policy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="757" selection-start-line="757" selection-end-line="757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/unordered_map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="996" selection-start-line="996" selection-end-line="996" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://13" />
+    <entry file="cidr-memory-view://15" />
+    <entry file="file:///usr/include/c++/11.2.0/bits/stl_tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="2535" column="13" selection-start-line="2535" selection-start-column="13" selection-end-line="2535" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://35" />
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+          <folding>
+            <element signature="e#22#40#0" expanded="true" />
+            <element signature="e#2436#3226#0" />
+            <element signature="e#3228#3410#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13264">
+          <caret line="829" selection-start-line="829" selection-end-line="829" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/shared_ptr_base.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15744">
+          <caret line="987" selection-start-line="987" selection-end-line="987" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/stl_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3408">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/shared_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7616">
+          <caret line="476" selection-start-line="476" selection-end-line="476" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2672">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9476">
+          <caret line="670" selection-start-line="670" selection-end-line="670" />
+          <folding>
+            <element signature="e#20617#21581#0" expanded="true" />
+            <element signature="e#25130#25596#0" expanded="true" />
+            <element signature="e#37847#38142#0" expanded="true" />
+            <element signature="e#41545#42608#0" expanded="true" />
+            <element signature="e#48371#49395#0" expanded="true" />
+            <element signature="e#50435#51160#0" expanded="true" />
+            <element signature="e#52221#52924#0" expanded="true" />
+            <element signature="e#59302#60453#0" expanded="true" />
+            <element signature="e#76878#78842#0" expanded="true" />
+            <element signature="e#81278#81556#0" expanded="true" />
+            <element signature="e#83025#83520#0" expanded="true" />
+            <element signature="e#85321#85832#0" expanded="true" />
+            <element signature="e#88342#88906#0" expanded="true" />
+            <element signature="e#91629#92198#0" expanded="true" />
+            <element signature="e#94941#95516#0" expanded="true" />
+            <element signature="e#98230#98818#0" expanded="true" />
+            <element signature="e#102633#104645#0" expanded="true" />
+            <element signature="e#227456#228685#0" expanded="true" />
+            <element signature="e#248685#249092#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/11.2.0/bits/stl_set.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7752">
+          <caret line="684" selection-start-line="684" selection-end-line="684" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

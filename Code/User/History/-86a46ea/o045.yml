@@ -1,0 +1,131 @@
+name: E-commerce QAA Test Execution ${{ parameters.SCOPE }}_${{ parameters.ENVIRONMENT }}
+
+pool: GL-AGPOOL-Drmax-Ecom001Prod
+
+parameters:
+  - name: ENVIRONMENT
+    type: string
+    values:
+      - prod
+      - stage
+    default: stage
+  - name: SCOPE
+    type: string
+    values:
+      - cz
+      - ed
+      - it
+      - pl
+      - ro
+      - sk
+      - ssb
+    default: cz
+  - name: PRODUCT
+    type: string
+    values:
+      - all
+      - catalog
+      - checkout
+      - content
+      - customer
+      - platform
+      - qaa
+      - special
+      - clean_up
+  - name: GREP_TAGS
+    type: string
+    values:
+      - all
+      - smoke
+      - edgecase
+      - e2e
+      - performance
+      - clean_up
+      - dev_cloud
+    default: all
+  - name: SPECS
+    type: string
+    default: '-'
+  - name: CLOUD_NSF_URL
+    type: string
+    default: '-'
+  - name: CLOUD_MAG_URL
+    type: string
+    default: '-'
+  - name: SEND_TO_DASHBOARD
+    type: boolean
+    default: false
+
+variables:
+  - name: cloudNsfUrl
+    value: ${{ parameters.CLOUD_NSF_URL }}
+  - name: cloudMagUrl
+    value: ${{ parameters.CLOUD_MAG_URL }}
+  - name: specProductRoute
+    ${{ if eq(parameters.SPECS, '-') }}:
+      ${{ if eq(parameters.PRODUCT, 'all') }}:
+        value: "-s \"specs/**/*, specs/**/**/*\""
+      ${{ if ne(parameters.PRODUCT, 'all') }}:
+        value: "-s \"specs/${{ parameters.PRODUCT }}/**/*, specs/${{ parameters.PRODUCT }}/**/**/*\""
+      ${{ if eq(parameters.PRODUCT, 'clean_up') }}:
+        value: "-s specs/clean_up.ts"
+    ${{ else }}:
+      value: "-s \"${{ parameters.SPECS }}\""
+  - name: grepTags
+    ${{ if eq(parameters.GREP_TAGS, 'all') }}:
+      value: '--env grepTags="-clean_up",grepOmitFiltered=true'
+    ${{ else }}:
+      value: "--env grepTags=${{ parameters.GREP_TAGS }},grepOmitFiltered=true"
+  - name: dashboardRecordKey
+    value: "--record --key b5eb2dac-32ea-4d97-9272-62165d3513ff"
+  - name: dashboard
+    ${{ if eq(parameters.SEND_TO_DASHBOARD, 'true') }}:
+      ${{ if and(eq(variables.cloudNsfUrl, '-'), eq(variables.cloudMagUrl, '-')) }}:
+        value: '${{ variables.dashboardRecordKey }} --tag "${{ parameters.SCOPE }}_${{ parameters.ENVIRONMENT }}"'
+      ${{ if or(ne(variables.cloudNsfUrl, '-'), ne(variables.cloudMagUrl, '-')) }}:
+        value: '${{ variables.dashboardRecordKey }} --tag "azdocloud_${{ parameters.SCOPE }}"'
+    ${{ else }}:
+      value: " "
+
+trigger: none
+
+stages:
+  - stage: DevCloudCypress
+    displayName: Run Cypress on Dev cloud
+    condition: or(ne(variables.cloudNsfUrl, '-'), ne(variables.cloudMagUrl, '-'))
+    jobs:
+      - job: RunCloudCypress
+        timeoutInMinutes: 180
+        steps:
+          - task: NodeTool@0
+            inputs:
+              versionSpec: '16.x'
+          - bash: |
+              sudo apt-get install libgtk2.0-0 libgtk-3-0 libgbm-dev libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2 libxtst6 xauth xvfb
+              npm install --global yarn
+              yarn install
+            displayName: Install Cypress
+          - bash: |
+              bash_scripts/generate_mxcloud_config.sh ${{ parameters.SCOPE }} ${{ variables.cloudNsfUrl }} ${{ variables.cloudMagUrl }}
+              yarn run:${{ parameters.SCOPE }}_stage ${{ variables.dashboard }} ${{ variables.grepTags }} --config-file="configs/${{ parameters.SCOPE }}_stage_azdo.json" ${{ variables.specProductRoute }}
+              rm configs/${{ parameters.SCOPE }}_stage_azdo.json
+            continueOnError: true
+            displayName: Test Results
+  - stage: Cypress
+    displayName: Run Cypress on stage/prod
+    condition: and(eq(variables.cloudNsfUrl, '-'), eq(variables.cloudMagUrl, '-'))
+    jobs:
+      - job: RunCypress
+        timeoutInMinutes: 180
+        steps:
+          - task: NodeTool@0
+            inputs:
+              versionSpec: '16.x'
+          - bash: |
+              sudo apt-get install libgtk2.0-0 libgtk-3-0 libgbm-dev libnotify-dev libgconf-2-4 libnss3 libxss1 libasound2 libxtst6 xauth xvfb
+              npm install --global yarn
+              yarn install
+            displayName: Install Cypress
+          - bash: |
+              yarn run:${{ parameters.SCOPE }}_${{ parameters.ENVIRONMENT }} ${{ variables.specProductRoute }} ${{ variables.grepTags }} ${{ variables.dashboard }}
+            displayName: Test Results

@@ -1,0 +1,20 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="DBMakeDataSourceReadonly.html" value="1650276429965" />
+        <entry key="DBRunQuery.html" value="1650143363875" />
+        <entry key="DBRunQueryIntention.html" value="1652010803469" />
+        <entry key="FindUsages.html" value="1650816320767" />
+        <entry key="Generate.html" value="1655293386285" />
+        <entry key="GoToClass.html" value="1648214376951" />
+        <entry key="GoToDeclaration.html" value="1649602163010" />
+        <entry key="GoToSymbol.html" value="1651231983574" />
+        <entry key="QuickDefinition.html" value="1648127452584" />
+        <entry key="QuickJavaDoc.html" value="1650033117538" />
+        <entry key="RecentChanges.html" value="1650461212195" />
+        <entry key="SearchEverywhere.html" value="1652619228141" />
+      </map>
+    </option>
+  </component>
+</application>

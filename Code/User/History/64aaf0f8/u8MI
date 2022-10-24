@@ -1,0 +1,72 @@
+pick 62dff18 updated locators for it megamenu
+squash 6f786d9 update 'my account' locator
+squash 61e7047 updated locators for it megamenu
+squash 3b84a91 updated locators for it megamenu
+squash c398e26 user locators now grep different parts of addressess
+squash dafe55a update 'my account' locator
+squash 158e9b8 updated megamenu locators
+squash 0eb1c06 My account locator
+pick aeb2f98 Added old ssb & ro locators
+squash 8d84c1a updated locators for it megamenu
+squash 001db36 updated locators for it megamenu
+squash 180268a ed now uses cmn locators
+squash cfd8c4a Updated megamenu locators
+squash 685aa6c Eslint, locator update
+drop 23c6e92 Merged PR 7363: feature/8421 - Tests for Desktop Resolution
+pick 310b782 Update visuals spec to assert regex match
+squash fd37644 Update visuals spec to assert regex match
+squash ac5918d Fixed index import
+squash d9d1f13 name trimming
+squash 4c5c93b User profile entered through megamenu
+squash 3098abe name trimming
+squash 41ca35c moved url to configs
+squash 0855cf7 Added wait for login back
+pick 80f80fb Updated it_stage config
+pick 9fd9b47 Added regexp to new it config
+squash 83003ca Added regexers to pl_stage
+squash 5d0cf5f added regexes to ed_stage
+squash 69bafe1 Added regex assert
+squash 69105b0 Updated sk regexes
+squash 7fea939 Added regex to it_prod
+squash c309094 Added regexes to ro_stage
+squash 5703e09 Added regexes to ssb_stage
+squash f0be49c Added regexes to ro_prod
+squash b336ec0 Eslint formatting
+squash 7896fbe Added regexes to ed_prod
+squash fcde387 Formatting and regex update
+squash fe91703 Added/fixed regexes
+squash 07c61b5 ED regex update
+squash 0c1cbff Removed my account link
+squash 42ef7d0 Removed redundant $
+squash e209f6a Added a space in the it phone regex
+squash 6ab6202 Updated SK phone validation
+drop 5f8d12f Added removed tag
+drop 0b397ef Removed old checkout_steps
+
+# Rebase 1a3bb85..6ab6202 onto 1a3bb85 (44 commands)
+#
+# Commands:
+# p, pick <commit> = use commit
+# r, reword <commit> = use commit, but edit the commit message
+# e, edit <commit> = use commit, but stop for amending
+# s, squash <commit> = use commit, but meld into previous commit
+# f, fixup [-C | -c] <commit> = like "squash" but keep only the previous
+#                    commit's log message, unless -C is used, in which case
+#                    keep only this commit's message; -c is same as -C but
+#                    opens the editor
+# x, exec <command> = run command (the rest of the line) using shell
+# b, break = stop here (continue rebase later with 'git rebase --continue')
+# d, drop <commit> = remove commit
+# l, label <label> = label current HEAD with a name
+# t, reset <label> = reset HEAD to a label
+# m, merge [-C <commit> | -c <commit>] <label> [# <oneline>]
+# .       create a merge commit using the original merge commit's
+# .       message (or the oneline, if no original merge commit was
+# .       specified); use -c <commit> to reword the commit message
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#

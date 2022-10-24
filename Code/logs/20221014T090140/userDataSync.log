@@ -1,0 +1,73 @@
+[2022-10-14 09:01:42.225] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2022-10-14 09:01:42.225] [settingssync] [info] Auto Sync is enabled.
+[2022-10-14 09:01:42.225] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2022-10-14 09:01:45.166] [settingssync] [info] Auto Sync: Started
+[2022-10-14 09:01:45.166] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-10-14 09:01:45.797] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-10-14 09:01:45.808] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-14 09:01:45.816] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-14 09:01:45.820] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-10-14 09:05:46.964] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/resource/globalState
+[2022-10-14 09:05:46.966] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/resource/globalState'.
+    at R.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:146108)
+    at async R.writeResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:143303)
+    at async mt.updateRemoteUserData (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:32250)
+    at async mt.applyResult (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:55028)
+    at async mt.doApply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:26953)
+    at async mt.doSync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:24822)
+    at async mt.performSync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:23886)
+    at async mt._sync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:21922)
+    at async mt.sync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:20973)
+    at async r.sync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:120886)
+[2022-10-14 09:05:46.966] [settingssync] [error] globalState: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/resource/globalState'.
+[2022-10-14 09:05:47.080] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-10-14 09:05:47.083] [settingssync] [info] Sync done. Took 241308ms
+[2022-10-14 09:05:47.084] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-10-14 09:05:47.195] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-10-14 09:05:47.201] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-14 09:05:47.207] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-14 09:05:47.211] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-10-14 09:05:48.190] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-10-14 09:05:48.197] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-10-14 09:05:48.290] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-10-14 09:05:48.292] [settingssync] [info] Sync done. Took 1116ms
+[2022-10-14 09:10:48.296] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-10-14 09:11:20.633] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-10-14 09:11:20.638] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-14 09:11:20.642] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-14 09:11:20.645] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-10-14 09:11:20.651] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-10-14 09:11:20.749] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-10-14 09:11:20.751] [settingssync] [info] Sync done. Took 133ms
+[2022-10-14 09:16:20.753] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-10-14 09:16:20.989] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-10-14 09:16:20.995] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-10-14 09:16:21.000] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-10-14 09:16:21.004] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-10-14 09:16:21.010] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-10-14 09:16:21.115] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-10-14 09:16:21.117] [settingssync] [info] Sync done. Took 142ms
+[2022-10-14 09:21:21.119] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-10-14 09:22:51.757] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2022-10-14 09:22:51.757] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at R.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:146108)
+    at async R.manifest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:143819)
+    at async r.createSyncTask (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:119470)
+    at async r.doSync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:115960)
+[2022-10-14 09:22:51.757] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at R.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:146108)
+    at async R.manifest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:143819)
+    at async r.createSyncTask (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:119470)
+    at async r.doSync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:115960)
+[2022-10-14 09:27:51.757] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-10-14 09:31:52.072] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2022-10-14 09:31:52.072] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at R.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:146108)
+    at async R.manifest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:143819)
+    at async r.createSyncTask (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:119470)
+    at async r.doSync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:115960)
+[2022-10-14 09:31:52.072] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at R.request (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:146108)
+    at async R.manifest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:143819)
+    at async r.createSyncTask (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:119470)
+    at async r.doSync (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:83:115960)

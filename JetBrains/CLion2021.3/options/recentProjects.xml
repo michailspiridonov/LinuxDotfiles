@@ -1,0 +1,21 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test – main.cpp" opened="true" projectWorkspaceId="26phYsxCOKMKCVeBJVsTciryi6O">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-213.7172.20" />
+              <option name="buildTimestamp" value="1647279141084" />
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1648126485697" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

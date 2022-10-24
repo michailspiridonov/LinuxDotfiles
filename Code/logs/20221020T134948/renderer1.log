@@ -1,0 +1,86 @@
+[2022-10-20 13:49:50.246] [renderer1] [error] [/home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27]: Failed to parse /home/michail/.vscode/extensions/ms-vscode.cmake-tools-1.12.27/package.nls.json: Value expected.
+[2022-10-20 13:49:50.450] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-10-20 13:56:47.400] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.401] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.401] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.401] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.401] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.401] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.401] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.402] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.402] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.402] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.403] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.403] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.403] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.403] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.404] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.404] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.404] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-20 13:56:47.404] [renderer1] [warning] CommandDetectionCapability#handleContinuationEnd Received continuation end without start
+[2022-10-21 10:43:10.110] [renderer1] [error] Cannot destructure property 'insideCyCommand' of 'shouldHaveAutocomplete(...)' as it is undefined.: TypeError: Cannot destructure property 'insideCyCommand' of 'shouldHaveAutocomplete(...)' as it is undefined.
+    at jQueryLocatorCompletionProvider.provideCompletionItems (/home/michail/.vscode/extensions/shelex.vscode-cy-helper-1.2.2/src/providers/JqueryLocatorCompletionProvider.js:86:13)
+    at K.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:51689)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:76815
+    at ne._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:66986)
+    at ne.$provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:76791)
+    at i._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:13680)
+    at i._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:13362)
+    at i._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:12081)
+    at i._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:10834)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:8941
+    at p.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:19049)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:17106
+    at p.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:19049)
+    at s._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23861)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21304
+    at p.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at b.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15880)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15010
+    at Socket.d (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:27128)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+[2022-10-21 10:43:11.618] [renderer1] [error] Cannot destructure property 'insideCyCommand' of 'shouldHaveAutocomplete(...)' as it is undefined.: TypeError: Cannot destructure property 'insideCyCommand' of 'shouldHaveAutocomplete(...)' as it is undefined.
+    at jQueryLocatorCompletionProvider.provideCompletionItems (/home/michail/.vscode/extensions/shelex.vscode-cy-helper-1.2.2/src/providers/JqueryLocatorCompletionProvider.js:86:13)
+    at K.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:51689)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:76815
+    at ne._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:66986)
+    at ne.$provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:76791)
+    at i._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:13680)
+    at i._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:13362)
+    at i._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:12081)
+    at i._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:10834)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:8941
+    at p.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:19049)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:17106
+    at p.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:19049)
+    at s._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23861)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21304
+    at p.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at v.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at b.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at b.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15880)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15010
+    at Socket.d (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:27128)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)

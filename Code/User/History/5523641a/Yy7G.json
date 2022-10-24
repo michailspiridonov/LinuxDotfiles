@@ -1,0 +1,36 @@
+{
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.external.osxExec": "alacritty",
+    "terminal.integrated.fontFamily": "Hack",
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "editor.fontLigatures": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": true,
+        "typescript": true,
+        "json": true
+    },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.guides.bracketPairs": true,
+    "editor.insertSpaces": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "git.autofetch": true,
+    "window.zoomLevel": -1,
+}

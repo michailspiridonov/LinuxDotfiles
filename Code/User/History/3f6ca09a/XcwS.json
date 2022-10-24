@@ -1,0 +1,74 @@
+{
+  "pluginsFile": "cypress/plugins/index.js",
+  "supportFile": "cypress/support/index.ts",
+  "integrationFolder": "specs",
+  "screenshotsFolder": "artifacts/screenshots",
+  "videosFolder": "artifacts/videos",
+  "baseUrl": "https://stage-nsf-local-ro-ssb.ro.drmax.net/",
+  "screenshotOnRunFailure": true,
+  "defaultCommandTimeout": 35000,
+  "pageLoadTimeout": 120000,
+  "viewportWidth": 375,
+  "viewportHeight": 667,
+  "chromeWebSecurity": false,
+  "projectId": "fucc3s",
+  "retries": 1,
+  "video": true,
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "env": {
+    "MAILOSAUR_API_KEY": "eovxfyRSAdnQX3b",
+    "environment": "ssb_stage",
+    "grepFilterSpecs": true,
+    "grepOmitFiltered": true,
+    "data": {
+      "env": "stage",
+      "country": "ssb",
+      "url": {
+        "graphql": "https://stage-nsf-local-ro-ssb.ro.drmax.net/graphql",
+        "homepage": "https://stage-nsf-local-ro-ssb.ro.drmax.net/",
+        "checkout": "https://stage-nsf-local-ro-ssb.ro.drmax.net/checkout/1",
+        "checkout_2_step": "https://stage-nsf-local-ro-ssb.ro.drmax.net/checkout/2",
+        "checkout_3_step": "https://stage-nsf-local-ro-ssb.ro.drmax.net/checkout/3",
+        "checkout_4_step": "https://stage-nsf-local-ro-ssb.ro.drmax.net/checkout/4",
+        "checkout_thankyou": "https://stage-nsf-local-ro-ssb.ro.drmax.net/checkout/thankyou",
+        "admin": "https://stage-magento2-local-ro.ro.drmax.net/admin_VesoaksAv4/",
+        "rest_base": "https://stage-magento2-local-ro.ro.drmax.net/rest/drmax/V1",
+        "pharmacies": "https://stage-nsf-local-ro-ssb.ro.drmax.net/farmacii"
+      },
+      "user": {
+        "login": "tester.pjvurmhd@mailosaur.io",
+        "email": "tester.pjvurmhd@mailosaur.io",
+        "pass": "Testerpassword2021",
+        "name": "Max",
+        "surname": "Tester",
+        "birth_day": "11",
+        "birth_month": "11",
+        "birth_year": "2000",
+        "phone": "0999888777",
+        "phone_prefix": "+40",
+        "street": "Str. I. C. Bratianu",
+        "house_number": "1048",
+        "city": "Budapesta",
+        "region": "Alba",
+        "region_code": "AB",
+        "country_code": "RO",
+        "postcode": "717211",
+        "bussiness": {
+          "tax_id": "10640589",
+          "name": "Tester și fiu",
+          "vat_id": "J40/1234/2020"
+        }
+      },
+      "admin": {
+        "login": "automationTesting",
+        "pass": "Computer2"
+      },
+      "fulltext_pharmacy": "Alba",
+      "default_shipping_method": "innoship",
+      "default_payment_method": "cashondelivery",
+      "store": "ssb",
+      "website_view": "Sensiblu Website",
+      "pharmacy_address": "Comuna Bradu"
+    }
+  }
+}

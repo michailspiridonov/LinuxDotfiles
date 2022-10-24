@@ -1,0 +1,15 @@
+{
+  "web": {
+    "client_id": "60477092989-0p96din0umqtmttj0v6278si8imagb51.apps.googleusercontent.com",
+    "project_id": "my-compaser-1234",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://localhost:3000/callback",
+      "https://developers.google.com/oauthplayground"
+    ],
+    "javascript_origins": ["http://localhost:3000"]
+  }
+}

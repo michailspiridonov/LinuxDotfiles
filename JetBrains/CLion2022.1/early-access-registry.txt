@@ -1,0 +1,6 @@
+ide.experimental.ui
+false
+ide.experimental.ui.editor.tabs
+false
+ide.experimental.ui.main.toolbar
+false

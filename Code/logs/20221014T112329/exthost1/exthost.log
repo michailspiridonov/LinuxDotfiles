@@ -1,0 +1,118 @@
+[2022-10-14 11:23:33.329] [exthost] [info] Extension host with pid 28267 started
+[2022-10-14 11:23:33.329] [exthost] [info] Skipping acquiring lock for /home/michail/.config/Code/User/workspaceStorage/bb071a473c5d3680b939f3cea1ed63f6.
+[2022-10-14 11:23:34.630] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-10-14 11:23:34.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-14 11:23:34.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-14 11:23:34.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-14 11:23:34.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-14 11:23:34.732] [exthost] [info] ExtensionService#_doActivateExtension drmax.drmax-vscode-testrail, startup: true, activationEvent: '*'
+[2022-10-14 11:23:34.740] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-10-14 11:23:34.797] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-10-14 11:23:35.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-14 11:23:35.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-14 11:23:35.589] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: true, activationEvent: 'workspaceContains:*/CMakeLists.txt,*/*/CMakeLists.txt,*/*/*/CMakeLists.txt'
+[2022-10-14 11:23:35.775] [exthost] [info] Eager extensions activated
+[2022-10-14 11:23:35.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-14 11:23:35.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:35.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:35.866] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:35.886] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:35.964] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-10-14 11:23:35.979] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot-nightly, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:36.078] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:36.824] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:37.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-14 11:23:37.932] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-14 11:23:37.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-14 11:23:39.224] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-14 11:23:39.259] [exthost] [warning] {"name":"Canceled"}
+[2022-10-14 11:23:39.259] [exthost] [warning] {"name":"Canceled"}
+[2022-10-14 11:23:39.259] [exthost] [warning] {"name":"Canceled"}
+[2022-10-14 11:23:39.281] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:43375)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13746)
+    at Proxy.R.<computed>.U.charCodeAt.R.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10301)
+    at M.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:21095)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:60284)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7) 
+[2022-10-14 11:23:39.296] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:217:20)
+[2022-10-14 11:23:39.308] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:43375)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13746)
+    at Proxy.R.<computed>.U.charCodeAt.R.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10301)
+    at M.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:21095)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:60284)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+[2022-10-14 11:23:39.336] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:43375)
+    at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:13746)
+    at Proxy.R.<computed>.U.charCodeAt.R.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:10301)
+    at M.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:21095)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:60284)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+[2022-10-14 11:23:40.692] [exthost] [error] Error: No provider registered for '/home/michail/School/AG1/P1'
+    at Object.getProvider (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:13:18497)
+    at Object.getAbsoluteUri (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:13:18729)
+    at Object.get uri (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:197:263055)
+    at Object.E.<computed> (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:218:21077)
+    at Object.getGitUri (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:197:254971)
+    at Object.E.<computed> (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:218:21077)
+    at Sa.updateCommitTooltip (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:191:796)
+    at Timeout._onTimeout (/home/michail/.vscode/extensions/eamodio.gitlens-12.2.2/dist/gitlens.js:191:257)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2022-10-14 11:23:40.902] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2022-10-14 11:23:40.902] [exthost] [error] Error: Pending response rejected since connection got disposed
+    at Object.dispose (/home/michail/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:53227:27)
+    at Object.dispose (/home/michail/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56788:35)
+    at /home/michail/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56235:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-14 11:23:40.902] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2022-10-14 11:23:40.902] [exthost] [error] Error: Pending response rejected since connection got disposed
+    at Object.dispose (/home/michail/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:53227:27)
+    at Object.dispose (/home/michail/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56788:35)
+    at /home/michail/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56235:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-14 11:23:40.903] [exthost] [info] Extension host with pid 28267 exiting with code 0
+[2022-10-14 11:23:41.698] [exthost] [info] Extension host with pid 28597 started
+[2022-10-14 11:23:41.698] [exthost] [info] Skipping acquiring lock for /home/michail/.config/Code/User/workspaceStorage/8e9e073cee16bc9852dbe85c9919bc56.
+[2022-10-14 11:23:41.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+[2022-10-14 11:23:41.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-14 11:23:41.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-14 11:23:41.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-14 11:23:41.915] [exthost] [info] ExtensionService#_doActivateExtension drmax.drmax-vscode-testrail, startup: true, activationEvent: '*'
+[2022-10-14 11:23:41.923] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-10-14 11:23:41.944] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-10-14 11:23:42.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-10-14 11:23:42.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+[2022-10-14 11:23:42.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-14 11:23:42.549] [exthost] [info] Eager extensions activated
+[2022-10-14 11:23:42.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:42.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:42.662] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:42.678] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:42.716] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:42.774] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot-nightly, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:42.895] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-14 11:23:43.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-14 11:23:53.301] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-14 11:24:23.554] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-14 13:35:08.348] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-14 13:35:09.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-10-14 13:35:09.202] [exthost] [info] ExtensionService#_doActivateExtension Shelex.vscode-cy-helper, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-10-14 13:35:23.611] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-14 13:44:22.911] [exthost] [warning] TextEditor is closed/disposed
+[2022-10-14 13:44:29.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+[2022-10-14 14:00:36.817] [exthost] [warning] TextEditor is closed/disposed

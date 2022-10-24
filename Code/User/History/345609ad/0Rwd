@@ -1,0 +1,62 @@
+drop e0450bee 5612 Now check actual L1 links
+drop 356cb6d6 Eshop button locator update
+drop c60b3e1c Improved L2 items checking
+drop a6b21859 Recursive function to check the items
+drop 9200037c Failde links logging
+pick 039f03c5 Fixed syntax error
+drop 2beb6cac Results logging and formatting
+drop a907b204 Added request timeout option
+drop 436dde23 Split the scraping and checking into 2 sequential parts
+drop e6e24fe2 Limited depth of megamemenu search to 3
+drop 9b0d6302 Better iterator name, starting depth changed 0->1
+drop 4f331d1f Formatting, force clicking
+drop 026fcc45 Fixed locators
+drop 6ba51f97 Elastic link fetching
+drop bc126ae4 Tyding up, async requests
+drop 39f9c50e Decoded ES request url
+drop 66a30f94 Added category type
+drop fb3be907 Italy fix
+drop 2d8c9f98 Exported commanly used code to functions
+drop 08898907 cz 2.4 fix, checkLink refined
+drop 7008885b Added old tests back
+drop 9586fc3f removed redirect test for L2 links
+drop 381ef636 Updated cz locator
+drop 18473cca Created request builder for megamenu
+drop ddb8b202 Extracting items using reduce
+drop 27cff645 Removed redundant links array
+drop dd6b57a0 Removed promises from link checking, removed category title from err message
+drop 123054f9 Put the promises back
+drop 0a4918a3 for cycle instead of promises
+drop 9b924867 Put the promises back, updated extractUrl
+drop 2c349e09 5614 is not skipped for ed & ssb
+drop 4508385b Fixed url extraction
+drop 5c591327 Added PL stage exception to avoid network failure
+drop 6cd44df7 Fixed 5612 test case
+
+# Rebase 23b3a5aa..6cd44df7 onto 23b3a5aa (34 commands)
+#
+# Commands:
+# p, pick <commit> = use commit
+# r, reword <commit> = use commit, but edit the commit message
+# e, edit <commit> = use commit, but stop for amending
+# s, squash <commit> = use commit, but meld into previous commit
+# f, fixup [-C | -c] <commit> = like "squash" but keep only the previous
+#                    commit's log message, unless -C is used, in which case
+#                    keep only this commit's message; -c is same as -C but
+#                    opens the editor
+# x, exec <command> = run command (the rest of the line) using shell
+# b, break = stop here (continue rebase later with 'git rebase --continue')
+# d, drop <commit> = remove commit
+# l, label <label> = label current HEAD with a name
+# t, reset <label> = reset HEAD to a label
+# m, merge [-C <commit> | -c <commit>] <label> [# <oneline>]
+# .       create a merge commit using the original merge commit's
+# .       message (or the oneline, if no original merge commit was
+# .       specified); use -c <commit> to reword the commit message
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#

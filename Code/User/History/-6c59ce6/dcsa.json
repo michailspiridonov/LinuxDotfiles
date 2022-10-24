@@ -1,0 +1,24 @@
+{
+    "baseUrl": "http://magento.quanti.cz/",
+    "defaultCommandTimeout": 8000,
+    "env": {
+        "admin": {
+            "username": "admin",
+            "password": "fidorka0",
+            "token": "vnbd5oanevatcwei6ubb2y68miebf9i3"
+        },
+        "review": {
+            "nickname": "reviewer",
+            "summary": "review summary",
+            "review": "review text"
+        },
+        "urls": {
+            "sales" : {
+                "orders": "/admin/sales/order/"
+            },
+            "marketing" : {
+                "all_reviews": "/admin/review/product/index/"
+            }
+        }
+    }
+}

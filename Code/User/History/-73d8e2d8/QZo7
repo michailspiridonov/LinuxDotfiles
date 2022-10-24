@@ -1,0 +1,13 @@
+node_modules
+artifacts
+.vscode/
+debug.log
+*.log
+.idea
+cypress.env.json
+report
+temp_reports
+.lambdatest/
+cypresss_screenshots
+bash_scripts/run_azdo_pipelines.sh
+hars

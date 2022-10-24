@@ -1,0 +1,15 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/http_server" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/test" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/uloha3" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/uloha_4" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/uloha_5" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/uloha_6" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/uloha_7" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

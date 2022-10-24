@@ -1,0 +1,8 @@
+Added intercept of cookie consent request
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feature/9602
+# Changes to be committed:
+#	modified:   specs/content/visuals/megamenu.ts
+#

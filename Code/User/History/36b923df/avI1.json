@@ -1,0 +1,14 @@
+{
+    "email": "michail.spiridonov@quanti.cz",
+    "firstName": "Michail",
+    "lastName": "Spiridonov",
+    "company": "Quanti",
+    "address": {
+        "street": "Test street 123",
+        "city": "Test city",
+        "zip": "12345",
+        "country": "Czechia",
+        "state": "Test state"
+    },
+    "phone": "123456789"
+}

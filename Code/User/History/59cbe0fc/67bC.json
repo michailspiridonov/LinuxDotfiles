@@ -1,0 +1,70 @@
+{
+  "pluginsFile": "cypress/plugins/index.js",
+  "supportFile": "cypress/support/index.ts",
+  "integrationFolder": "specs",
+  "screenshotsFolder": "cypresss_screenshots",
+  "baseUrl": "https://www.drmax.cz/",
+  "screenshotOnRunFailure": true,
+  "defaultCommandTimeout": 35000,
+  "pageLoadTimeout": 120000,
+  "viewportWidth": 375,
+  "viewportHeight": 667,
+  "chromeWebSecurity": false,
+  "projectId": "fucc3s",
+  "retries": 1,
+  "video": false,
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "env": {
+    "MAILOSAUR_API_KEY": "eovxfyRSAdnQX3b",
+    "environment": "cz_prod",
+    "grepFilterSpecs": true,
+    "grepOmitFiltered": true,
+    "data": {
+      "env": "prod",
+      "country": "cz",
+      "url": {
+        "homepage": "https://www.drmax.cz/",
+        "admin": "https://backend.drmax.cz/admin_tykMamzij7/",
+        "checkout": "https://www.drmax.cz/pokladna/1",
+        "checkout_2_step": "https://www.drmax.cz/pokladna/2",
+        "checkout_3_step": "https://www.drmax.cz/pokladna/3",
+        "checkout_4_step": "https://www.drmax.cz/pokladna/4",
+        "checkout_thankyou": "https://www.drmax.cz/checkout/thankyou",
+        "pharmacies": "https://www.drmax.cz/lekarny/"
+      },
+      "user": {
+        "login": "tester.pjvurmhd@mailosaur.io",
+        "email": "tester.pjvurmhd@mailosaur.io",
+        "pass": "Testerpassword2021",
+        "name": "Max",
+        "surname": "Tester",
+        "birth_day": "11",
+        "birth_month": "11",
+        "birth_year": "2000",
+        "phone": "999888777",
+        "phone_prefix": "+420",
+        "street": "Na poříčí",
+        "house_number": "1048",
+        "city": "Praha",
+        "postcode": "11000",
+        "bussiness": {
+          "id": "12348",
+          "tax_id": "CZ12354654",
+          "vat_id": "09844023",
+          "name": "Tester a syn",
+          "street": "Testerska",
+          "house_number": "1/2",
+          "city": "Praha 1",
+          "postcode": "11111",
+          "municipality": "Cypress Hill"
+        }
+      },
+      "fulltext_pharmacy": "Praha",
+      "default_shipping_method": "drmaxshippingczechpost",
+      "default_payment_method": "cashondelivery",
+      "store": "",
+      "website_view": "Main Website",
+      "pharmacy_address": "Pod Marjánkou 1906/12"
+    }
+  }
+}

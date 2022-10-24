@@ -1,0 +1,77 @@
+[2022-10-20T07:59:43.958Z] Log level: Info
+[2022-10-20T07:59:43.968Z] [info] Validating found git in: git
+[2022-10-20T07:59:44.003Z] [info] Using git 2.38.1 from git
+[2022-10-20T07:59:44.021Z] > git rev-parse --show-toplevel [5ms]
+[2022-10-20T07:59:44.034Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-10-20T07:59:44.041Z] [info] Open repository: /home/michail/work/Quanti/drmax-qa-tests
+[2022-10-20T07:59:44.083Z] > git status -z -uall [23ms]
+[2022-10-20T07:59:44.089Z] > git fetch [36ms]
+[2022-10-20T07:59:44.089Z] error: cannot run ssh: No such file or directory
+fatal: unable to fork
+[2022-10-20T07:59:44.092Z] > git symbolic-ref --short HEAD [3ms]
+[2022-10-20T07:59:44.100Z] > git rev-parse --show-toplevel [34ms]
+[2022-10-20T07:59:44.110Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+[2022-10-20T07:59:44.126Z] > git remote --verbose [3ms]
+[2022-10-20T07:59:44.126Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-10-20T07:59:44.136Z] > git rev-parse --show-toplevel [27ms]
+[2022-10-20T07:59:44.162Z] > git rev-parse --show-toplevel [18ms]
+[2022-10-20T07:59:44.934Z] > git config --get commit.template [779ms]
+[2022-10-20T07:59:44.965Z] > git status -z -uall [22ms]
+[2022-10-20T07:59:44.975Z] > git check-ignore -v -z --stdin [18ms]
+[2022-10-20T07:59:44.976Z] > git rev-parse --show-toplevel [807ms]
+[2022-10-20T07:59:44.992Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-20T07:59:45.003Z] > git symbolic-ref --short HEAD [29ms]
+[2022-10-20T07:59:45.010Z] > git rev-parse --show-toplevel [8ms]
+[2022-10-20T07:59:45.020Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+[2022-10-20T07:59:45.266Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [237ms]
+[2022-10-20T07:59:45.267Z] > git rev-parse --show-toplevel [247ms]
+[2022-10-20T07:59:45.308Z] > git rev-parse --show-toplevel [31ms]
+[2022-10-20T07:59:45.339Z] > git remote --verbose [300ms]
+[2022-10-20T07:59:45.402Z] > git rev-parse --show-toplevel [86ms]
+[2022-10-20T07:59:45.416Z] > git config --get commit.template [64ms]
+[2022-10-20T08:03:00.831Z] > git fetch [2ms]
+[2022-10-20T08:03:00.831Z] error: cannot run ssh: No such file or directory
+fatal: unable to fork
+[2022-10-20T08:03:01.926Z] > git status -z -uall [3ms]
+[2022-10-20T08:03:01.932Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-20T08:03:01.939Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-10-20T08:03:01.951Z] > git remote --verbose [2ms]
+[2022-10-20T08:03:01.951Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-10-20T08:03:01.961Z] > git config --get commit.template [1ms]
+[2022-10-20T09:49:51.738Z] > git fetch [2ms]
+[2022-10-20T09:49:51.738Z] error: cannot run ssh: No such file or directory
+fatal: unable to fork
+[2022-10-20T11:17:09.777Z] > git fetch [8ms]
+[2022-10-20T11:17:09.777Z] error: cannot run ssh: No such file or directory
+fatal: unable to fork
+[2022-10-20T11:17:09.791Z] > git status -z -uall [15ms]
+[2022-10-20T11:17:09.810Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-20T11:17:09.825Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-10-20T11:17:09.841Z] > git remote --verbose [1ms]
+[2022-10-20T11:17:09.850Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-10-20T11:17:09.860Z] > git config --get commit.template [1ms]
+[2022-10-20T11:17:13.861Z] > git check-ignore -v -z --stdin [2ms]
+[2022-10-20T11:17:39.656Z] > git show --textconv :configs/it_prod.config.ts [32ms]
+[2022-10-20T11:17:39.656Z] > git ls-files --stage -- /home/michail/work/Quanti/drmax-qa-tests/configs/it_prod.config.ts [19ms]
+[2022-10-20T11:17:39.667Z] > git cat-file -s 72b4d121b7b9c28312df8fdd62d45765aac87215 [2ms]
+[2022-10-20T11:17:49.826Z] > git show --textconv :configs/ed_stage.config.ts [11ms]
+[2022-10-20T11:17:49.827Z] > git ls-files --stage -- /home/michail/work/Quanti/drmax-qa-tests/configs/ed_stage.config.ts [3ms]
+[2022-10-20T11:17:49.858Z] > git cat-file -s 84b4bfe6621e10598a3ac92fcac677effba5c731 [21ms]
+[2022-10-20T11:18:03.291Z] > git show --textconv :configs/ed_prod.config.ts [24ms]
+[2022-10-20T11:18:03.297Z] > git ls-files --stage -- /home/michail/work/Quanti/drmax-qa-tests/configs/ed_prod.config.ts [15ms]
+[2022-10-20T11:18:03.307Z] > git cat-file -s 4df627e206d94b8363a86d4fca2011919de889d5 [1ms]
+[2022-10-20T11:21:31.932Z] > git fetch [3ms]
+[2022-10-20T11:21:31.932Z] error: cannot run ssh: No such file or directory
+fatal: unable to fork
+[2022-10-20T11:21:32.297Z] > git show --textconv :cypress/handlers/nsf/general-handler.ts [21ms]
+[2022-10-20T11:21:32.298Z] > git ls-files --stage -- /home/michail/work/Quanti/drmax-qa-tests/cypress/handlers/nsf/general-handler.ts [14ms]
+[2022-10-20T11:21:32.313Z] > git cat-file -s c2be43fd47603ccec4abf509de0bcb82e2f9ce2b [4ms]
+[2022-10-20T11:21:33.085Z] > git status -z -uall [5ms]
+[2022-10-20T11:21:33.098Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-20T11:21:33.113Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-10-20T11:21:33.136Z] > git remote --verbose [3ms]
+[2022-10-20T11:21:33.136Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-10-20T11:21:33.151Z] > git config --get commit.template [1ms]
+[2022-10-20T11:21:33.189Z] > git ls-files --stage -- /home/michail/work/Quanti/drmax-qa-tests/cypress/handlers/nsf/general-handler.ts [2ms]
+[2022-10-20T11:21:33.201Z] > git cat-file -s c2be43fd47603ccec4abf509de0bcb82e2f9ce2b [2ms]
+[2022-10-20T11:21:33.215Z] > git show --textconv :cypress/handlers/nsf/general-handler.ts [2ms]

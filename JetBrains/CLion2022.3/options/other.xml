@@ -1,0 +1,128 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="26phYsxCOKMKCVeBJVsTciryi6O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26scEfeSPdcvD5kVV0yxxZJ5ZDn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27q3GaQh3Dj2J7g5YF3z8KqKsIJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27tdXpbIDH045gAiBLRGmV38twq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27xzInv7GB73VwSJMcYQU0CRuWf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28sghX9h5obb5JtbArfKihH9Fqf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ac0AOspSFi5ywliFkskizH6yKm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="appcds.runOnSecondStart" value="CL-213.7172.20-9bde468bca61e60aafa3de29468d8663d1feb009f0f82628ef0df40f9bfed0d0" />
+    <property name="bundled.plugins.list.saved.version" value="CL-213.7172.20" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="file.chooser.recent.files" value="/usr/bin/cmake" />
+    <property name="file.gist.reindex.count" value="9" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="gotit.previous.run" value="CL-213.7172.20" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="last_opened_file_path" value="/usr/bin/cmake" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-213.7172.20" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "copilot\ncopilo\ncopil\ncopi\ncop",
+    "MarketplacePluginsSearchHistory": "copilot\n/tag:Theme\n/tag:\"User Interface\"",
+    "NextRunPlatformUpdateBuild": "CL-223.7126.6",
+    "NextRunPlatformUpdateVersion": "2022.3 EAP",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.enable.text.search": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "tab size",
+    "appcds.runOnSecondStart": "CL-223.6646.99-71137c0c727fef59743d250c46915c422911c6dde82eff164b81336472724a1e",
+    "bundled.plugins.list.saved.version": "CL-223.6646.99",
+    "clion.initialConfigPerformed": "true",
+    "debugger.speed.search.tree.option.hint.counter": "1",
+    "evlsprt3.CL-222.2889.11": "22",
+    "evlsprt3.CL-223.4884.72": "26",
+    "evlsprt3.CL-223.6646.99": "24",
+    "exception.accepted.notices": "182193a2",
+    "file.gist.reindex.count": "142",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "CL-223.6646.99",
+    "ideavim.statistics.timestamp": "1666542035986",
+    "previousColorScheme": "_@user_One Dark",
+    "registry.to.advanced.settings.migration.build": "CL-223.6646.99",
+    "settings.code.style.selected.tab.Markdown": "Tabs and Indents",
+    "stats.collector.latest.sending.timestamp": "1666556846854",
+    "stats.collector.today.sent.data.size": "1561036",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/michail/School/AG1/P1/sample.cpp",
+      "/usr/bin/cmake"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "GoToDeclaration.html": 1665733013960,
+    "Generate.html": 1665915409579,
+    "CtrlW.html": 1665733011378,
+    "ExtractMethod.html": 1666454463389,
+    "Move.html": 1666364342490
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="P1-history" project-path="$USER_HOME$/School/AG1/P1" last-access-time="1666532550310" />
+    </command-history-files>
+  </component>
+</application>
